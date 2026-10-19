@@ -3,9 +3,6 @@ layout: default
 title: How to Disable Secure Boot — PhantomHack
 ---
 ---
-
-## layout: default title: How to Disable Secure Boot — PhantomHack
-
 # 🔒 Как отключить Secure Boot / How to Disable Secure Boot
 
 Secure Boot — это функция безопасности UEFI, которая при загрузке компьютера разрешает запуск только программного обеспечения с доверенной цифровой подписью Microsoft. Наш продукт использует низкоуровневые техники, которые Secure Boot целенаправленно блокирует — именно поэтому для корректной работы его необходимо отключить.

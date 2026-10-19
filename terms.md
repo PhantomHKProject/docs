@@ -6,7 +6,6 @@ title: Terms of Service
 # 📜 PhantomHack — Terms of Service / Пользовательское соглашение
 
 > Last updated: 10.09.2026  
-> Действует для всех пользователей PhantomHack.
 
 ---
 
