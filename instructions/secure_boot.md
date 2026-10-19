@@ -19,7 +19,7 @@ Secure Boot is a UEFI security feature that only allows software with a trusted 
 ---
 
 ### ⚡ Способ 1 — Через лоадер (быстрее всего!) / Method 1 — Via Loader (Fastest!)
-
+<p align="center"> <img src="images/secure_boot_warning.png" width="250" alt="Preview"> </p>
 При запуске лоадер автоматически проверяет статус Secure Boot. Если он включён — на экране появится диалоговое окно. Нажмите **«Да»** — компьютер мгновенно перезагрузится прямо в меню BIOS, минуя загрузку Windows.
 
 When the loader starts, it automatically checks the Secure Boot status. If enabled, a dialog box appears. Click **«Yes»** — the computer will instantly restart directly into BIOS, bypassing Windows boot.
