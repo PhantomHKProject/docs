@@ -1,10 +1,15 @@
+---
+layout: default
+title: PhantomHack — Dead by Daylight External
+---
+
 # PhantomHack — Dead by Daylight External
 
 🟢 **Status:** Undetected  
 🔵 **Supported OS:** Windows 10 / Windows 11 (All builds)  
 🔴 **Platforms:** Steam, Epic Games
 
-![](https://img4.teletype.in/files/b3/c4/b3c4311d-ef48-47ac-9752-1027dbb5abf9.png)
+<img src="images/preview.png" width="600" alt="Preview">
 
 ---
 
@@ -38,10 +43,9 @@
 
 ---
 
-###   
-1. Killer Visuals / Визуалы Убийцы
+### 1. Killer Visuals / Визуалы Убийцы
 
-![](https://img4.teletype.in/files/ff/fd/fffd3846-ccf5-4778-95c1-8c73e47617a0.png)
+<img src="images/killer.png" width="600" alt="Killer Visuals">
 
 **👁 Enable ESP / Включение ESP** EN: Toggle Killer visuals with hotkey binding option. RU: Включение отображения Убийцы с возможностью привязки к горячей клавише.
 
@@ -57,7 +61,7 @@
 
 ### 2. Survivor Visuals / Визуалы Выживших
 
-![](https://img1.teletype.in/files/c5/fa/c5faf865-8893-4adc-a6fd-f420a2e50d50.png)
+<img src="images/survivor.png" width="600" alt="Survivor Visuals">
 
 **👁 Enable ESP / Включение ESP** EN: Toggle Survivor visuals with hotkey binding option. RU: Включение отображения Выживших с возможностью привязки к горячей клавише.
 
@@ -79,7 +83,7 @@
 
 ### 3. World Visuals / Визуалы Окружения (World)
 
-![](https://img3.teletype.in/files/a0/dd/a0ddf4b7-8356-4709-b2f6-6754d3235595.png)
+<img src="images/world.png" width="600" alt="World Visuals">
 
 **👁 Enable World ESP / Включение ESP окружения** EN: Master toggle for all world object visuals with hotkey binding option. RU: Главный переключатель отображения объектов карты с возможностью привязки к горячей клавише.
 
@@ -107,9 +111,9 @@
 
 ---
 
-### 4. Miscellaneous & Exploits / Разное и Эксплойты (Misc)  
+### 4. Miscellaneous & Exploits / Разное и Эксплойты (Misc)
 
-![](https://img2.teletype.in/files/5e/3e/5e3e55e7-bfcc-4107-8e37-7fac74e4e984.png)
+<img src="images/misc.png" width="600" alt="Misc">
 
 **Auto SkillCheck / Автоматический Скиллчек**
 
@@ -139,9 +143,9 @@
 
 ---
 
-### 5. General Settings / Общие настройки (Settings → General)
+### 5. General Settings / Общие настройки
 
-![](https://img2.teletype.in/files/1f/96/1f965a41-264c-4552-920e-fb856c871712.png)
+<img src="images/settings.png" width="600" alt="Settings">
 
 **General / Основные**
 

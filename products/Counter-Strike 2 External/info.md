@@ -1,3 +1,8 @@
+---
+layout: default
+title: PhantomHack — Counter-Strike 2 External
+---
+
 # PhantomHack — Counter-Strike 2 External
 
 🟢 **Status:** Undetected
@@ -6,7 +11,7 @@
 
 🔴 **Architecture:** Kernel-Level (System Driver)
 
-![](https://img2.teletype.in/files/db/72/db72d14d-d856-4ae6-8124-267e66e387e5.png)
+<img src="images/preview.png" width="600" alt="Preview">
 
 ---
 
@@ -40,9 +45,9 @@ PhantomHack: Counter-Strike 2 External — это высокотехнологи
 
 ---
 
-![](https://img1.teletype.in/files/4d/0a/4d0aeddd-f1be-4cf1-9cac-98e78a0225d9.png)
+<img src="images/aimbot1.png" width="600" alt="Aimbot">
 
-![](https://img4.teletype.in/files/b0/bc/b0bca151-03e6-4151-8a8a-81dc122e0fcd.png)
+<img src="images/aimbot2.png" width="600" alt="Aimbot 2">
 
 ### 1. Aimbot & Weapon Control / Аимбот и Контроль Оружия
 
@@ -70,7 +75,7 @@ _Автоматический триггер выстрела, срабатыв�
 
 - ⏱ **Custom Delays / Кастомные задержки** — Adjustable pre-shot and post-shot delays (ms). _Настройка задержки перед выстрелом и после выстрела в миллисекундах._
 - 🛡 **Visibility & Team Checks / Проверки видимости и команды** — Avoid accidental team damage or wall shots. _Проверка, виден ли враг, и полное игнорирование союзников._
-- 🎯 Mesh Inset Accuracy / Глубина попадания по сетке — CPU-side skinned-mesh raycast with a bone-axis ratio threshold — triggers only on a real hit against the body, not on its edges. Рейкаст по скиннированной сетке на стороне CPU с порогом по оси кости — срабатывает только при реальном попадании по телу, а не по его краям.
+- 🎯 **Mesh Inset Accuracy / Глубина попадания по сетке** — CPU-side skinned-mesh raycast with a bone-axis ratio threshold — triggers only on a real hit against the body, not on its edges. _Рейкаст по скиннированной сетке на стороне CPU с порогом по оси кости — срабатывает только при реальном попадании по телу, а не по его краям._
 
 ---
 
@@ -80,9 +85,9 @@ Separate independent settings for Team (Союзников), Enemy (Врагов
 
 ---
 
-![](https://img3.teletype.in/files/a0/15/a015c18e-4348-42a3-bddd-56dbadd65826.png)
+<img src="images/esp.png" width="600" alt="ESP">
 
-👤 Player ESP / Визуализация игроков
+**👤 Player ESP / Визуализация игроков**
 
 Per-player rendering layer with every element independently toggleable and separately configured for Team and Enemy. Colors, sizes and positions are all fully customizable.
 
@@ -99,7 +104,7 @@ _Слой отображения игроков с независимым вкл
 
 ---
 
-#### 🎨 Chams / GPU-рендеринг игроков
+**🎨 Chams / GPU-рендеринг игроков**
 
 GPU-rendered player highlighting with separate Visible and Hidden layers. Styles: Textured, Flat, Metallic, Wireframe, Glow Blend. Keybind-controlled, separate for Team and Enemy.
 
@@ -109,7 +114,7 @@ _Подсветка игроков через GPU с раздельными сл
 
 ---
 
-#### 🔊 Sound ESP / Звуковой радар
+**🔊 Sound ESP / Звуковой радар**
 
 Tracks enemy steps, shots, and movements in real-time. Displays pulsing expanding rings at the sound origin point. Includes interval controls and custom timings.
 
@@ -117,9 +122,9 @@ _Отслеживание шагов, выстрелов и движений в�
 
 ---
 
-![](https://img3.teletype.in/files/6c/59/6c598a23-cf11-46d3-9fa3-644531258681.png)
+<img src="images/world.png" width="600" alt="World ESP">
 
-🌎 World ESP / Окружающий мир
+**🌎 World ESP / Окружающий мир**
 
 ESP layer for in-world objects independent of players. Each element has its own enable toggle, color and size controls.
 
@@ -133,7 +138,7 @@ _Слой ЕСП для объектов в мире, независимый о�
 
 ### 4. Grenade Helper / Lineup System / Помощник гранат
 
-![](https://img3.teletype.in/files/a5/11/a511eade-a61c-4b12-b187-952f33c188aa.png)
+<img src="images/grenades.png" width="600" alt="Grenade Helper">
 
 Built-in grenade lineup assistant with per-map storage, real-time visual overlays and a full in-menu creator. Automatically loads the correct lineup set when the map starts and guides you to the exact stand spot and aim angle for every stored throw.
 
@@ -151,6 +156,6 @@ _Встроенный помощник раскидок с хранением п
 
 ### 5. Misc / Разное
 
-![](https://img4.teletype.in/files/b5/c8/b5c8f6c5-2dee-4d37-b119-4dc1832be44e.png)
+<img src="images/misc.png" width="600" alt="Misc">
 
 - 👁 **Spectator List / Список спектаторов** — Draggable on-screen overlay showing players currently spectating you or your POV, with Steam avatar loading. _Перетаскиваемый оверлей на экране со списком игроков, которые смотрят на вас или вашу камеру; автозагрузка аватаров Steam._
